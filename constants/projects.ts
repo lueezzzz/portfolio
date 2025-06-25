@@ -30,7 +30,7 @@ export const PROJECTS = [
     {
         title: "SpendSmart",
         description:
-            "Spendsmart is a budgeting app that lets users track spending by snapping a photo of their receipts. Powered by OpenAI Vision API, it extracts purchase details and organizes them into a personal finance tracker. Users get spending insights, personalized tips, and secure multi-user support via Firebase.c",
+            "Spendsmart is a budgeting app that lets users track spending by snapping a photo of their receipts. Powered by OpenAI Vision API, it extracts purchase details and organizes them into a personal finance tracker. Users get spending insights, personalized tips, and secure multi-user support via Firebase.",
         image: "/images/SpendSmart.png",
         tags: ["Flutter", "Dart", "OpenAI API", "Firebase"],
         github: "https://github.com/ezerssss/SpendSmart",
