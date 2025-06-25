@@ -1,6 +1,4 @@
 import { NAV_LINKS } from "@/constants/links";
-import { useTheme } from "next-themes";
-import { Sun, Moon } from "lucide-react";
 import { JSX } from "react";
 
 interface NavlinksProps {
