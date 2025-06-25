@@ -1,7 +1,7 @@
 import { NAV_LINKS } from "@/constants/links";
 import { useTheme } from "next-themes";
 import { Sun, Moon } from "lucide-react";
-import { JSX, useEffect, useState } from "react";
+import { JSX } from "react";
 
 interface NavlinksProps {
     parentClass?: string;
@@ -12,8 +12,6 @@ interface NavlinksProps {
 
 export default function Navlinks(props: NavlinksProps) {
     const { parentClass, childClass, icon, onToggleTheme } = props;
-    const { theme, setTheme } = useTheme();
-    const Icon = theme === "dark" ? Sun : Moon;
 
     return (
         <>
