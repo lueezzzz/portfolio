@@ -67,7 +67,7 @@ export default function Navbar() {
                         </div>
                     </div>
                     {isOpen && (
-                        <div className="mt-4 border-t pb-4 md:hidden dark:border-gray-700">
+                        <div className="mt-4 border-t md:hidden dark:border-gray-700">
                             <Navlinks
                                 parentClass="flex flex-col space-y-4 pt-4"
                                 childClass="text-gray-600 hover:text-gray-900 transition-colors duration-200 font-medium text-left dark:text-gray-300 dark:hover:text-white"
