@@ -5,16 +5,16 @@ export default function Contacts() {
         <>
             <section
                 id="contact"
-                className="py-20  dark:bg-black dark:text-white"
+                className="py-20 dark:bg-black dark:text-white"
             >
                 <div className="mx-auto max-w-4xl px-6 text-center">
                     <h2 className="mb-8 text-4xl font-medium tracking-tight md:text-5xl">
-                        Let's Work Together
+                        Let&apos;s Work Together
                     </h2>
                     <p className="mx-auto mb-12 max-w-2xl text-xl leading-relaxed text-gray-500 dark:text-gray-400">
-                        I'm always interested in hearing about new projects and
-                        opportunities. Whether you have a question or just want
-                        to say hi, feel free to reach out.
+                        I&apos;m always interested in hearing about new projects
+                        and opportunities. Whether you have a question or just
+                        want to say hi, feel free to reach out.
                     </p>
 
                     <div className="mb-12">
@@ -35,7 +35,7 @@ export default function Contacts() {
                                 className="group flex flex-col items-center space-y-2 text-gray-400 transition-colors duration-200 hover:text-white dark:text-gray-500"
                                 aria-label={label}
                             >
-                                <div className="border  p-3 text-gray-700 transition-colors duration-200 group-hover:border-gray-500  dark:text-white dark:group-hover:border-white">
+                                <div className="border p-3 text-gray-700 transition-colors duration-200 group-hover:border-gray-500 dark:text-white dark:group-hover:border-white">
                                     <Icon size={24} />
                                 </div>
                                 <span className="text-sm font-medium text-black dark:text-gray-400">

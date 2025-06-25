@@ -12,9 +12,11 @@ export default function About() {
                             </h2>
                             <div className="space-y-6 text-lg leading-relaxed text-gray-700 dark:text-gray-300">
                                 <p>
-                                    I'm a passionate developer driven with
-                                    curiosity, passion, and discipline. Constantly learning and excited
-                                    by how much more there is to discover in the world of tech.
+                                    I&apos;m a passionate developer driven with
+                                    curiosity, passion, and discipline.
+                                    Constantly learning and excited by how much
+                                    more there is to discover in the world of
+                                    tech.
                                 </p>
                                 <p>
                                     My background includes full stack
@@ -27,9 +29,9 @@ export default function About() {
                                     collaboration and honesty
                                 </p>
                                 <p>
-                                    When I'm not coding, you'll find me
-                                    exploring new technologies, in the gym, or
-                                    watching tv-series.
+                                    When I&apos;m not coding, you&apos;ll find
+                                    me exploring new technologies, in the gym,
+                                    or watching tv-series.
                                 </p>
                             </div>
                         </div>
